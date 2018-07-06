@@ -1,0 +1,6 @@
+
+\.idea/
+
+mask_rcnn_coco\.h5
+
+logs/
