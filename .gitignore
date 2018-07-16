@@ -4,3 +4,7 @@
 mask_rcnn_coco\.h5
 
 logs/
+
+env/
+
+Mask_RCNN/mrcnn/__pycache__/
