@@ -27,3 +27,7 @@ $ python trainer.py train \
     --dataset=/path/to/dataset \
     --weights=coco
 ```
+
+## Extra
+Tool to annotate images
+- [`VIA-1.0.5v(VGG Image Annotator)`](https://gitlab.com/vgg/via/tags/via-1.0.5)
